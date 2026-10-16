@@ -10,4 +10,5 @@
   (loop_statement)
   (gnatprep_declarative_if_statement)
   (gnatprep_if_statement)
+  (comment)+
 ] @fold

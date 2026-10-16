@@ -7,4 +7,5 @@
   (lambda_expr)
   (config_expr)
   (string)
+  (comment)+
 ] @fold

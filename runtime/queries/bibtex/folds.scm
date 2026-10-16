@@ -1,1 +1,5 @@
-(entry) @fold
+[
+  (entry)
+  (comment)+
+  (junk)+
+] @fold

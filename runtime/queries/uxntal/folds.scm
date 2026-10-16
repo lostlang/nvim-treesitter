@@ -2,5 +2,5 @@
   (macro)
   (memory_execution)
   (subroutine)
-  (comment)
+  (comment)+
 ] @fold

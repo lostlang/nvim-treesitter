@@ -1,4 +1,5 @@
 [
   (record)
   (module)
+  (comment)+
 ] @fold

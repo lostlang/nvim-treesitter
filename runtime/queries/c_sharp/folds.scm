@@ -14,4 +14,5 @@ initializer: (initializer_expression) @fold
   (preproc_elif)
   (preproc_else)
   (using_directive)+
+  (comment)+
 ] @fold

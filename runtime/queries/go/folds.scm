@@ -16,4 +16,5 @@
   (composite_literal)
   (literal_element)
   (block)
+  (comment)+
 ] @fold

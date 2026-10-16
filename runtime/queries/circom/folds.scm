@@ -8,6 +8,6 @@
   (call_expression)
   (array_expression)
   (tuple_expression)
-  (comment)
   (include_directive)+
+  (comment)+
 ] @fold

@@ -1,5 +1,3 @@
-(comment)+ @fold
-
 (pod) @fold
 
 ; fold the block-typed package and class statements only
@@ -19,6 +17,7 @@
   (block_statement)
   (defer_statement)
   (phaser_statement)
+  (comment)+
 ] @fold
 
 (try_statement

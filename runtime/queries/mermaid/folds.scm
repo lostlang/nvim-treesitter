@@ -7,4 +7,5 @@
   (diagram_er)
   (diagram_flow)
   (flow_stmt_subgraph)
+  (comment)+
 ] @fold

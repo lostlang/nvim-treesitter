@@ -1,1 +1,4 @@
-(braced_word) @fold
+[
+  (braced_word)
+  (comment)+
+] @fold

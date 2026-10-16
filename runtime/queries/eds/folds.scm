@@ -1,1 +1,4 @@
-(section) @fold
+[
+  (section)
+  (comment)+
+] @fold

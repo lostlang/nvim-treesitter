@@ -8,7 +8,6 @@
   (function_definition)
   (struct_specifier)
   (enum_specifier)
-  (comment)
   (preproc_if)
   (preproc_elif)
   (preproc_else)
@@ -17,6 +16,7 @@
   (initializer_list)
   (gnu_asm_expression)
   (preproc_include)+
+  (comment)+
 ] @fold
 
 (compound_statement

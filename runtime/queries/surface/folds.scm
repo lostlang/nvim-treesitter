@@ -3,4 +3,5 @@
   (tag)
   (component)
   (block)
+  (comment)+
 ] @fold

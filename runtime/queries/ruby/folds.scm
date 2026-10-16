@@ -10,4 +10,5 @@
   (do_block)
   (singleton_class)
   (lambda)
+  (comment)+
 ] @fold

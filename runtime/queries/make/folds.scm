@@ -4,3 +4,5 @@
   (define_directive)
 ] @fold
   (#trim! @fold))
+
+(comment)+ @fold

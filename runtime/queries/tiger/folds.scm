@@ -12,6 +12,7 @@
   (class_declaration)
   (class_type)
   (method_declaration)
+  (comment)+
 ] @fold
 
 ; vim: sw=2 foldmethod=marker

@@ -4,4 +4,5 @@
   (local_statement)
   (exec_statement)
   (test_case)
+  (comment)+
 ] @fold

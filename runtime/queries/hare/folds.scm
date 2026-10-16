@@ -15,4 +15,5 @@
   (array_literal)
   (struct_literal)
   (tuple_literal)
+  (comment)+
 ] @fold

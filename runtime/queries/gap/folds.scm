@@ -9,4 +9,5 @@
   (lambda)
   (function)
   (atomic_function)
+  (comment)+
 ] @fold

@@ -5,4 +5,6 @@
   (argument_list)
   (annotation_argument_list)
   (import_declaration)+
+  (block_comment)+
+  (line_comment)+
 ] @fold

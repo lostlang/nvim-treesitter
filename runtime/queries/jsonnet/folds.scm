@@ -7,4 +7,5 @@
   ; (params)
   ; (args)
   ; (conditional)
+  (comment)+
 ] @fold

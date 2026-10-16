@@ -10,4 +10,5 @@
   (hash_literal_expression)
   (class_statement)
   (class_method_definition)
+  (comment)+
 ] @fold

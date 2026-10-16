@@ -23,7 +23,7 @@
   (defProc)
   (declField)
   (declProp)
-  (comment)
+  (comment)+
 ] @fold
 
 (interface

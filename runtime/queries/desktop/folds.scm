@@ -1,1 +1,4 @@
-(group) @fold
+[
+  (group)
+  (comment)+
+] @fold

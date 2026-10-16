@@ -1,4 +1,5 @@
 [
   (paired_statement)
-  (paired_comment)
+  (paired_comment)+
+  (unpaired_comment)+
 ] @fold

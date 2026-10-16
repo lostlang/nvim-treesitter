@@ -8,4 +8,5 @@
   (branch)
   (content)
   (raw_blck)
+  (comment)+
 ] @fold

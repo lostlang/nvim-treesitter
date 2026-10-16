@@ -3,5 +3,6 @@
   (map)
   (tuple)
   (struct)
-  (block_comment)
+  (block_comment)+
+  (line_comment)+
 ] @fold

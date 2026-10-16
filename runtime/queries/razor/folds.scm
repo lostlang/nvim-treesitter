@@ -11,4 +11,7 @@
   (razor_compound_using)
   (razor_section)
   (razor_block)
+  (comment)+
+  (html_comment)+
+  (razor_comment)+
 ] @fold

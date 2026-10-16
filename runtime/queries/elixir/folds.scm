@@ -7,4 +7,5 @@
   (list)
   (map)
   (tuple)
+  (comment)+
 ] @fold

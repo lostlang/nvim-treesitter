@@ -7,4 +7,6 @@
   (pattern)
   (parenthesized_or_tuple_pattern)
   (delay_block)
+  (comment)+
+  (doc_block)+
 ] @fold

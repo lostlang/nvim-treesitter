@@ -6,5 +6,6 @@
   (union_type)
   (list_literal)
   (record_literal)
-  (block_comment)
+  (block_comment)+
+  (line_comment)+
 ] @fold

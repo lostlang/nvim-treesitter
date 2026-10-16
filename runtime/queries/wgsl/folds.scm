@@ -7,4 +7,6 @@
   (loop_statement)
   (for_statement)
   (while_statement)
+  (block_comment)+
+  (line_comment)+
 ] @fold

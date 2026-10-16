@@ -9,7 +9,8 @@
   (field_declaration_list)
   (block)
   (interface_type)
-  (comment)
   (const_declaration)
   (var_declaration)
+  (comment)+
+  (element_comment)+
 ] @fold

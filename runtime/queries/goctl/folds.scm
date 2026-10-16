@@ -8,4 +8,5 @@
   (serviceServerSpec)
   (infoStatement)
   (structType)
+  (comment)+
 ] @fold

@@ -1,1 +1,4 @@
-(binding) @fold
+[
+  (binding)
+  (comment)+
+] @fold

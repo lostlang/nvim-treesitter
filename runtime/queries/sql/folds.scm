@@ -1,1 +1,5 @@
-(statement) @fold
+[
+  (statement)
+  (comment)+
+  (marginalia)+
+] @fold

@@ -1,1 +1,4 @@
-(cmd_do) @fold
+[
+  (cmd_do)
+  (comment)+
+] @fold

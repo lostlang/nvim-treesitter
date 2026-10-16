@@ -10,4 +10,5 @@
   (enum_declaration)
   (anon_function)
   (table_constructor)
+  (comment)+
 ] @fold

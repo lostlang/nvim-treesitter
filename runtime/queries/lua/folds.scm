@@ -9,4 +9,5 @@
   (parameters)
   (arguments)
   (table_constructor)
+  (comment)+
 ] @fold

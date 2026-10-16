@@ -10,4 +10,5 @@
   (events)
   (methods)
   (properties)
+  (comment)+
 ] @fold

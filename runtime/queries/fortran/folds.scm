@@ -8,4 +8,7 @@
   (function)
   (subroutine)
   (interface)
+  (comment)+
+  (inline_preproc_comment)+
+  (multiline_preproc_comment)+
 ] @fold

@@ -5,4 +5,5 @@
   (for_statement)
   (if_statement)
   (try_statement)
+  (comment)+
 ] @fold

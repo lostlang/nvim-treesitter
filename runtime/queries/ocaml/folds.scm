@@ -26,5 +26,5 @@
   (item_extension)
   (quoted_extension)
   (quoted_item_extension)
-  (comment)
+  (comment)+
 ] @fold

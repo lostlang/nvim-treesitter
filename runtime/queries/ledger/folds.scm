@@ -1,1 +1,6 @@
-(xact) @fold
+[
+  (xact)
+  (block_comment)+
+  (comment)+
+  (note)+
+] @fold

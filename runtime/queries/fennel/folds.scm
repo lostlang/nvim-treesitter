@@ -3,6 +3,7 @@
   (list)
   (table)
   (sequence)
+  (comment)+
 ] @fold
 
 ; sub-forms / special compounds

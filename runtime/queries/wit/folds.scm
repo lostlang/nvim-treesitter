@@ -1,4 +1,9 @@
-(body) @fold
+[
+  (body)
+  (block_comment)+
+  (doc_comment)+
+  (line_comment)+
+] @fold
 
 (body
   [

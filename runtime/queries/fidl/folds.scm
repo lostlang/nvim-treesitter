@@ -3,4 +3,5 @@
   (protocol_declaration)
   (resource_declaration)
   (service_declaration)
+  (comment)+
 ] @fold

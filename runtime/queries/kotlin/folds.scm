@@ -10,4 +10,6 @@
   (class_body)
   (enum_class_body)
   (interpolated_expression)
+  (line_comment)+
+  (multiline_comment)+
 ] @fold

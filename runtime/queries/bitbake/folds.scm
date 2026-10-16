@@ -21,4 +21,5 @@
   (dictionary)
   (string)
   (python_string)
+  (comment)+
 ] @fold

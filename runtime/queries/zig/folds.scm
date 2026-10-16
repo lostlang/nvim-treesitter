@@ -20,4 +20,5 @@
   (enum_declaration)
   (union_declaration)
   (error_set_declaration)
+  (comment)+
 ] @fold

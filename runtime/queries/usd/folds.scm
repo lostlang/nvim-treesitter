@@ -1,1 +1,4 @@
-(block) @fold
+[
+  (block)
+  (comment)+
+] @fold

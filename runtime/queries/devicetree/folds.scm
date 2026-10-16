@@ -1,1 +1,4 @@
-(node) @fold
+[
+  (node)
+  (comment)+
+] @fold

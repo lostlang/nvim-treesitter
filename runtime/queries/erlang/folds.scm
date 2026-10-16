@@ -6,4 +6,5 @@
   (map_expr)
   (export_attribute)
   (export_type_attribute)
+  (comment)+
 ] @fold

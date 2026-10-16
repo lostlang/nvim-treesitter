@@ -4,6 +4,6 @@
   (service)
   (oneof)
   (rpc)
+  (import)+
+  (comment)+
 ] @fold
-
-(import)+ @fold

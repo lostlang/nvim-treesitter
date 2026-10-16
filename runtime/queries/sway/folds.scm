@@ -17,4 +17,6 @@
   (attribute_item)
   (block)
   (use_declaration)+
+  (block_comment)+
+  (line_comment)+
 ] @fold

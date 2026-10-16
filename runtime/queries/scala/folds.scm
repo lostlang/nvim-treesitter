@@ -13,4 +13,7 @@
   (for_expression)
   (try_expression)
   (match_expression)
+  (block_comment)+
+  (comment)+
+  (xml_comment)+
 ] @fold

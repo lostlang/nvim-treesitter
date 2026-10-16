@@ -1,1 +1,4 @@
-(reduction) @fold
+[
+  (reduction)
+  (comment)+
+] @fold

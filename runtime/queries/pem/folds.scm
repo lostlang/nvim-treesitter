@@ -1,1 +1,4 @@
-(content) @fold
+[
+  (content)
+  (comment)+
+] @fold

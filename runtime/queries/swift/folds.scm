@@ -32,4 +32,6 @@
   (didset_clause)
 
   (import_declaration)+
+  (comment)+
+  (multiline_comment)+
 ] @fold

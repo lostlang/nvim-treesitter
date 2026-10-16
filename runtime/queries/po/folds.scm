@@ -5,4 +5,5 @@
   (msgstr)
   (msgstr_plural)
   (message)
+  (comment)+
 ] @fold

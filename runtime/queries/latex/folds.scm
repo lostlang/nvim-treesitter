@@ -8,7 +8,8 @@
   (subparagraph)
   (generic_environment)
   (math_environment)
-  (comment_environment)
-  (block_comment)
   (displayed_equation)
+  (block_comment)+
+  (comment_environment)+
+  (line_comment)+
 ] @fold

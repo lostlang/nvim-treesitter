@@ -1,7 +1,7 @@
 [
-  (comment)
   (list)
   (dict_core)
+  (comment)+
 ] @fold
 
 (code

@@ -1,1 +1,4 @@
-(element_list) @fold
+[
+  (element_list)
+  (comment)+
+] @fold

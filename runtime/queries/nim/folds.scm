@@ -38,4 +38,8 @@
   (func_expression)
   (iterator_expression)
   (concept_declaration)
+  (block_comment)+
+  (block_documentation_comment)+
+  (comment)+
+  (documentation_comment)+
 ] @fold

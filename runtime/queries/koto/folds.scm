@@ -1,9 +1,9 @@
 [
   (assign)
-  (comment)
   (function)
   (list)
   (map)
   (tuple)
   (string)
+  (comment)+
 ] @fold

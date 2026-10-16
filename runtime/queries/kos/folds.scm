@@ -16,4 +16,5 @@
   (repeat_statement)
   (while_statement)
   (for_statement)
+  (comment)+
 ] @fold

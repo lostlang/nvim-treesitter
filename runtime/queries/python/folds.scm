@@ -20,9 +20,7 @@
   (set)
   (dictionary)
   (string)
+  (import_statement)+
+  (import_from_statement)+
+  (comment)+
 ] @fold
-
-[
-  (import_statement)
-  (import_from_statement)
-]+ @fold

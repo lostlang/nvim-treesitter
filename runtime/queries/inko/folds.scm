@@ -15,4 +15,5 @@
   (method)
   (trait)
   (while)
+  (line_comment)+
 ] @fold

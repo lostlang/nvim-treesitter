@@ -1,5 +1,4 @@
 [
-  (block_comment)
   (architecture_definition)
   (architecture_head)
   (concurrent_block)
@@ -42,4 +41,6 @@
   (case_generate_statement)
   (case_generate_alternative)
   (type_declaration)
+  (block_comment)+
+  (line_comment)+
 ] @fold

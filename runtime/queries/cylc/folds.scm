@@ -7,4 +7,6 @@
   (runtime_section)
   (task_section)
   (graph_section)
+  (comment)+
+  (jinja2_comment)+
 ] @fold

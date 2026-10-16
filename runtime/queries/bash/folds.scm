@@ -6,4 +6,5 @@
   (while_statement)
   (c_style_for_statement)
   (heredoc_redirect)
+  (comment)+
 ] @fold

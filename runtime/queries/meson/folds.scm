@@ -6,4 +6,5 @@
   (elseif_command)
   (foreach_command)
   (list)
+  (comment)+
 ] @fold

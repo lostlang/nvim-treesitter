@@ -14,4 +14,5 @@
   (list)
   (dictionary)
   (string)
+  (comment)+
 ] @fold

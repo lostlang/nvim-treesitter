@@ -6,4 +6,5 @@
   (menu)
   (if)
   (help_text)
+  (comment)+
 ] @fold

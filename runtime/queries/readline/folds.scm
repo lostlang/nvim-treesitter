@@ -1,1 +1,4 @@
-(conditional_construct) @fold
+[
+  (conditional_construct)
+  (comment)+
+] @fold

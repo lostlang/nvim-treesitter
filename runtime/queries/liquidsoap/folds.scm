@@ -18,4 +18,5 @@
   (try_body)
   (try_do)
   (block)
+  (comment)+
 ] @fold

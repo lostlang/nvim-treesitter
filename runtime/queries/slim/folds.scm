@@ -1,1 +1,4 @@
-(child) @fold
+[
+  (child)
+  (comment)+
+] @fold

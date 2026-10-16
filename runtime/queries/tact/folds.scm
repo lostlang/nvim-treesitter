@@ -17,4 +17,5 @@
   (asm_function_body)
   ; <{ … }>
   (asm_sequence)
+  (comment)+
 ] @fold

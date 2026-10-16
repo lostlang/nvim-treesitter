@@ -1,1 +1,4 @@
-(word_definition) @fold
+[
+  (word_definition)
+  (comment)+
+] @fold

@@ -15,5 +15,6 @@
   (subscript_expression)
   (ternary_expression)
   (string)
-  (comment)
+  (comment)+
+  (diagnostic_comment)+
 ] @fold

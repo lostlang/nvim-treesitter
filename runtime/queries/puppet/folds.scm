@@ -9,5 +9,5 @@
   (case_statement)
   (hash)
   (array)
-  (comment)
+  (comment)+
 ] @fold

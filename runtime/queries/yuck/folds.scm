@@ -6,4 +6,5 @@
   (json_array)
   (json_object)
   (parenthesized_expression)
+  (comment)+
 ] @fold

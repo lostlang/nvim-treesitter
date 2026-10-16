@@ -20,4 +20,6 @@
   (package_import_declaration)
   (text_macro_definition)
   (include_compiler_directive)+
+  (block_comment)+
+  (one_line_comment)+
 ] @fold

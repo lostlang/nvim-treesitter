@@ -21,4 +21,6 @@
   (object)
   (generator_function)
   (generator_function_declaration)
+  (comment)+
+  (html_comment)+
 ] @fold

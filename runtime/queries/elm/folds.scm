@@ -11,4 +11,6 @@
   (record_expr)
   (parenthesized_expr)
   (import_clause)+
+  (block_comment)+
+  (line_comment)+
 ] @fold

@@ -8,4 +8,5 @@
   (val_list)
   (val_table)
   (val_closure)
+  (comment)+
 ] @fold

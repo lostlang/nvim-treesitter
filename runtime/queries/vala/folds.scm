@@ -8,4 +8,5 @@
   (catch_clause)
   (block)
   (class_member)
+  (comment)+
 ] @fold

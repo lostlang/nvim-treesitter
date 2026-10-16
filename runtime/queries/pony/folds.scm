@@ -29,5 +29,6 @@
   (array_literal)
   (object_literal)
   (string)
-  (block_comment)
+  (block_comment)+
+  (line_comment)+
 ] @fold

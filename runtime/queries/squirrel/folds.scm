@@ -10,7 +10,6 @@
   (parenthesized_expression)
   (string)
   (verbatim_string)
-  (comment)
   (if_statement)
   (else_statement)
   (while_statement)
@@ -20,4 +19,5 @@
   (foreach_statement)
   (try_statement)
   (catch_statement)
+  (comment)+
 ] @fold

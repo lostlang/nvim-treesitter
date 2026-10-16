@@ -1,1 +1,4 @@
-(entity_definition) @fold
+[
+  (entity_definition)
+  (comment)+
+] @fold

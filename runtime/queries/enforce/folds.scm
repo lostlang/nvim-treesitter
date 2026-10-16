@@ -5,6 +5,8 @@
   (actual_parameters)
   (decl_class)
   (decl_enum)
-  (comment_block)
   (doc_block)
+  (comment_block)+
+  (comment_line)+
+  (doc_line)+
 ] @fold

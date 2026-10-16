@@ -1,5 +1,5 @@
 [
   (element)
   (doctypedecl)
-  (Comment)
+  (Comment)+
 ] @fold

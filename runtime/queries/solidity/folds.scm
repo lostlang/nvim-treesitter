@@ -15,6 +15,6 @@
   (inline_array_expression)
   (tuple_expression)
   (struct_expression)
-  (comment)
   (emit_statement)
+  (comment)+
 ] @fold

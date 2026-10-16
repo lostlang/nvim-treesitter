@@ -3,4 +3,5 @@
   (module)
   (when)
   (else)
+  (comment)+
 ] @fold

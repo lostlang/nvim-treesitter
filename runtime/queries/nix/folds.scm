@@ -8,4 +8,5 @@
   (rec_attrset_expression)
   (list_expression)
   (indented_string_expression)
+  (comment)+
 ] @fold

@@ -11,4 +11,6 @@
   (quote_statement)
   (do_clause)
   (compound_statement)
+  (block_comment)+
+  (line_comment)+
 ] @fold

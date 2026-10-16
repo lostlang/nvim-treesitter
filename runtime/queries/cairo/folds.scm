@@ -23,4 +23,5 @@
   (call_expression)
   (tuple_expression)
   (attribute_item)
+  (comment)+
 ] @fold

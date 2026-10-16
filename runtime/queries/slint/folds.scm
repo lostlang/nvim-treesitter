@@ -8,4 +8,5 @@
   (global_definition)
   (imperative_block)
   (struct_block)
+  (comment)+
 ] @fold

@@ -10,4 +10,6 @@
   (set_or_map_literal)
   (string_literal)
   (import_or_export)+
+  (comment)+
+  (documentation_comment)+
 ] @fold

@@ -23,4 +23,5 @@
   (insert_clause)
   (data_block)
   (blank_node_property_list)
+  (comment)+
 ] @fold

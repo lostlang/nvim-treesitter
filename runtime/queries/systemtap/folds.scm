@@ -14,5 +14,5 @@
   (foreach_statement)
   (try_statement)
   (catch_clause)
-  (comment)
+  (comment)+
 ] @fold

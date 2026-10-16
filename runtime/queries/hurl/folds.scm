@@ -1,6 +1,5 @@
 ; fold.scm
 [
-  (comment)
   (entry)
   (request)
   (response)
@@ -16,4 +15,5 @@
   (basic_auth_section)
   (json_object)
   (json_array)
+  (comment)+
 ] @fold

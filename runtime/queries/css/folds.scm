@@ -7,4 +7,6 @@
   (media_statement)
   (keyframe_block)
   (import_statement)+
+  (comment)+
+  (js_comment)+
 ] @fold

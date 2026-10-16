@@ -4,5 +4,5 @@
   (block_action)
   (with_action)
   (define_action)
-  (comment)
+  (comment)+
 ] @fold

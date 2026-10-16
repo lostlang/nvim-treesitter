@@ -4,7 +4,6 @@
   (while_statement)
   (funcdef)
   (structdef)
-  (comment)
   (preproc_if)
   (preproc_elif)
   (preproc_else)
@@ -15,6 +14,7 @@
   (state_set)
   (state)
   (exit)
+  (comment)+
 ] @fold
 
 (initial_defn

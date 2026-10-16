@@ -24,11 +24,12 @@
   (ct_case_stmt)
   (ct_if_stmt)
   (ct_else_stmt)
-  ; Comments
-  (block_comment)
-  (doc_comment)
   ; Initializer list
   (initializer_list)
+  ; Comments
+  (block_comment)+
+  (doc_comment)+
+  (line_comment)+
 ] @fold
 
 (compound_stmt

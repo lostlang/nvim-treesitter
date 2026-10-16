@@ -9,4 +9,6 @@
   (parenthesized_expression)
   (record)
   (include_statement)+
+  (block_comment)+
+  (line_comment)+
 ] @fold

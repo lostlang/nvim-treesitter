@@ -14,4 +14,5 @@
   (method_definition)
   (import_statement)+
   (initializer)
+  (comment)+
 ] @fold
